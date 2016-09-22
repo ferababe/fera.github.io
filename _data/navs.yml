@@ -1,0 +1,19 @@
+- name: 'HOME'
+  title: 'home'
+  href: '/'
+
+- name: 'ABOUT'
+  title: 'about'
+  href: '/about'
+
+- name: 'BlOGS'
+  title: 'blogs'
+  href: '/blogs'
+
+- name: 'WORKS'
+  title: 'works'
+  href: '/works'
+
+- name: 'CONTACT'
+  title: 'contact'
+  href: '/contact'
